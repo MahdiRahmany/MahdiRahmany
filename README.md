@@ -67,7 +67,7 @@
 
 ###
 
-<p align="left">🌀 Work with :</p>
+<h3 align="left">🌀 Work with :</h3>
 
 ###
 
