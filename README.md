@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as <b>Front-end Web Developer</b><br>- 🔥 I'm Reading about <b>Self-Improvment</b><br>- 📚 I'm currently learning <b>React.js</b><br>- ⚡ In my free time love <b>Learning</b><br>- 💬 Ask me about <b>JavaScript, React.js, Next,js, TypeScript</b><br>- ✨ Fun fact I <b>Work Hard</b><br>- 📫 How to reach me <b>mahdirahmani.cm@gmail.com</b></p>
+<p align="left">- 🔭 I’m working as <b>Front-end Web Developer</b><br>- 🔥 I'm Reading about <b>Self-Improvment</b><br>- 📚 I'm currently learning <b>React.js</b><br>- ⚡ In my free time love <b>Learning</b><br>- 💬 Ask me about <b>JavaScript, React.js, Next,js, TypeScript</b><br>- ✨ Fun fact I <b>Work Hard</b><br>- 📫 How to reach me <b><a href="mailto:mahdirahmani.cm@gmail.com">mahdirahmani.cm@gmail.com</a></b></p>
 
 ###
 
