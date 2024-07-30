@@ -18,6 +18,9 @@
   <a href="https://twitter.com/NaNresult" target="_blank">
     <img src="https://img.shields.io/static/v1?message=x.com&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <a href="https://virgool.io/@MahdiRahmany" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=virgool&logo=visualstudio&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo"  />
+  </a>
 </div>
 
 ###
@@ -26,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as <b>Front-end Developer</b><br>- 🔥 I'm Reading about <b>self-improvment</b><br>- 📚 I'm currently learning <b>React.js</b><br>- ⚡ In my free time love <b>Learning</b><br>- 💬 Ask me about <b>JavaScript, React.js, Next,js, TypeScript</b><br>- ✨ Fun fact I <b>Work Hard</b><br>- 📫 How to reach me <b>mahdirahmani.cm@gmail.com</b></p>
+<p align="left">- 🔭 I’m working as <b>Front-end Web Developer</b><br>- 🔥 I'm Reading about <b>Self-Improvment</b><br>- 📚 I'm currently learning <b>React.js</b><br>- ⚡ In my free time love <b>Learning</b><br>- 💬 Ask me about <b>JavaScript, React.js, Next,js, TypeScript</b><br>- ✨ Fun fact I <b>Work Hard</b><br>- 📫 How to reach me <b>mahdirahmani.cm@gmail.com</b></p>
 
 ###
 
