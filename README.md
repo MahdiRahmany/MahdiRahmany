@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/mahdirahmany" target="_blank">
+  <a href="https://linkedin.com/in/mahdi-rahmany" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/mahdi_rahmanyy" target="_blank">
