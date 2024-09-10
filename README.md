@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as <b>Front-end Web Developer</b><br>- 🔥 I'm Reading about <b>Self-Improvment</b><br>- 📚 I'm currently learning <b>React.js</b><br>- ⚡ In my free time love <b>Learning</b><br>- 💬 Ask me about <b>JavaScript, React.js, Next,js, TypeScript</b><br>- ✨ Fun fact I <b>Work Hard</b><br>- 📫 How to reach me <b><a href="mailto:mahdirahmani.cm@gmail.com">mahdirahmani.cm@gmail.com</a></b></p>
+<p align="left">- 🔭 I’m working as <b>Front-end Web Developer</b>.<br>- 🔥 I'm Reading about <b>Self-Improvment</b>.<br>- 📚 I'm currently learning <b>React.js</b>.<br>- ⚡ In my free time love <b>Learning</b>.<br>- 💬 Ask me about <b>JavaScript, React.js</b>.<br>- ✨ Fun fact I <b>Work Hard</b>.<br>- 📫 How to reach me <b><a href="mailto:mahdirahmani.cm@gmail.com">mahdirahmani.cm@gmail.com</a></b>.</p>
 
 ###
 
@@ -78,8 +78,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo"  />
@@ -94,19 +92,19 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdirahmany&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdirahmany&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdirahmany&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&theme=dark&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdirahmany&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=mahdirahmany&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mahdirahmany&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
