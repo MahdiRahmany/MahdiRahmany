@@ -15,7 +15,7 @@
   <a href="mahdirahmani.cm@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://twitter.com/NaNresult" target="_blank">
+  <a href="https://twitter.com/LittleBitByte" target="_blank">
     <img src="https://img.shields.io/static/v1?message=x.com&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://virgool.io/@MahdiRahmany" target="_blank">
