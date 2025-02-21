@@ -2,26 +2,26 @@
 
 ###
 
-<div align="center">
-  <a href="https://linkedin.com/in/mahdi-rahmany" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/mahdirahmanyy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://telegram.me/mahdi_rahmanyy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="mahdirahmani.cm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://twitter.com/LittleBitByte" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=x.com&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://virgool.io/@MahdiRahmany" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=virgool&logo=visualstudio&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo"  />
-  </a>
-</div>
+// <div align="center">
+  // <a href="https://linkedin.com/in/mahdi-rahmany" target="_blank">
+   // <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+//  </a>
+ // <a href="https://www.instagram.com/mahdirahmanyy" target="_blank">
+  //  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+//  </a>
+//  <a href="https://telegram.me/mahdi_rahmanyy" target="_blank">
+//    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+//  </a>
+//  <a href="mahdirahmani.cm@gmail.com" target="_blank">
+//    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+//  </a>
+//  <a href="https://twitter.com/LittleBitByte" target="_blank">
+//    <img src="https://img.shields.io/static/v1?message=x.com&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+//  </a>
+//  <a href="https://virgool.io/@MahdiRahmany" target="_blank">
+//    <img src="https://img.shields.io/static/v1?message=virgool&logo=visualstudio&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo"  />
+//  </a>
+// </div>
 
 ###
 
